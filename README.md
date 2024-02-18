@@ -2,6 +2,18 @@
 ## About Me
 Hi, my name is Sarah, and I am currently working on a few projects focused on cleaning and fitlering data to be analyzed and visualized.
 
+## Technical Skills
+### Programming
+- Python (pandas, numpy, matplotlib, seaborn)
+- R (readr, tidyr, dplyr, ggplot2, rmarkdown)
+
+### Development
+- HTML
+
+### Database
+- mySQL
+- SQLite
+
 ## Projects
 
 ### In-Progress
