@@ -1,4 +1,3 @@
-body { background-color: #B8DE9A }
 # SarahA_Portfolio
 ## About Me 💕
 Hi, my name is Sarah 😊, and I am currently working on a few projects focused on cleaning and fitlering data to be analyzed and visualized.
