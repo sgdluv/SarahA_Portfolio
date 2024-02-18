@@ -6,6 +6,7 @@ Hi, my name is Sarah, and I am currently working on a few projects focused on cl
 
 ### In-Progress
 **1. Analysis of Social Media Users in the USA**
+
 Summary: Original Dataset for USA, UK, and Austrailia was found on [Kaggle](https://www.kaggle.com/datasets/imyjoshua/average-time-spent-by-a-user-on-social-media) and filtered using Python. The analysis was built using R. Here the association between age, platform, and time spent on social media were analyzed.
 
 **2. Relationships Between Top Ranking Billionaires**
